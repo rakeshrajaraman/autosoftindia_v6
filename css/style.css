@@ -8491,14 +8491,14 @@ h1, h2, h3, h4, h5,
       @media (max-width: 1199.98px) {
         .owl-carousel.home-slider .slider-item {
           background-position: center center !important; } }
-      .owl-carousel.home-slider .slider-item .overlay {
+       .owl-carousel.home-slider .slider-item .overlay {
         position: absolute;
         top: 0;
         bottom: 0;
         left: 0;
         right: 0;
         background: #000000;
-        opacity: .3; }
+        opacity: .3; } 
       .owl-carousel.home-slider .slider-item .slider-text {
         height: 600px; }
         @media (max-width: 767.98px) {
@@ -8932,10 +8932,10 @@ h1, h2, h3, h4, h5,
     -o-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
-    transition: all 0.3s ease; }
+    transition: all 0.3s ease; } 
     @media (max-width: 767.98px) {
       .project .overlay {
-        opacity: .2; } }
+        opacity: .2; } } 
   .project .btn-site {
     position: absolute;
     bottom: 0;
@@ -9543,7 +9543,7 @@ textarea.form-control {
   position: relative;
   padding: 3em 0;
   z-index: 0; }
-  .ftco-intro:after {
+  /* .ftco-intro:after {
     position: absolute;
     top: 0;
     left: 0;
@@ -9561,7 +9561,7 @@ textarea.form-control {
     background: -ms-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
     background: -webkit-gradient(linear, left top, right top, from(#1566ad), to(#1b9de3));
     background: linear-gradient(to right, #1566ad 0%, #1b9de3 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1566ad', endColorstr='#1b9de3', GradientType=1 ); }
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1566ad', endColorstr='#1b9de3', GradientType=1 ); } */
   .ftco-intro .btn {
     width: 100%; }
   .ftco-intro h2 {
@@ -9634,7 +9634,7 @@ textarea.form-control {
   @media (max-width: 991.98px) {
     .ftco-consult {
       background-position: top center !important; } }
-  .ftco-consult .overlay {
+  /*.ftco-consult .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -9650,7 +9650,7 @@ textarea.form-control {
     background: -ms-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
     background: -webkit-gradient(linear, left top, right top, from(#1566ad), to(#1b9de3));
     background: linear-gradient(to right, #1566ad 0%, #1b9de3 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1566ad', endColorstr='#1b9de3', GradientType=1 ); }
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1566ad', endColorstr='#1b9de3', GradientType=1 ); } */
 
 .appointment-form .form-group {
   position: relative;
