@@ -9544,7 +9544,7 @@ textarea.form-control {
   position: relative;
   padding: 3em 0;
   z-index: 0; }
-  /* .ftco-intro:after {
+   .ftco-intro:after {
     position: absolute;
     top: 0;
     left: 0;
@@ -9554,15 +9554,15 @@ textarea.form-control {
     z-index: -1;
     opacity: .8;
     background: #233e62;
-    background: #1566ad;
-    background: -moz-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, #1566ad), color-stop(100%, #1b9de3));
-    background: -webkit-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -o-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -ms-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#1566ad), to(#1b9de3));
-    background: linear-gradient(to right, #1566ad 0%, #1b9de3 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1566ad', endColorstr='#1b9de3', GradientType=1 ); } */
+    background: #000000;
+    background: -moz-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #000000), color-stop(100%, #737373));
+    background: -webkit-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -o-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -ms-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#000000), to(#737373));
+    background: linear-gradient(to right, #000000 0%, #737373 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#737373', GradientType=1 ); } 
   .ftco-intro .btn {
     width: 100%; }
   .ftco-intro h2 {
@@ -9635,7 +9635,7 @@ textarea.form-control {
   @media (max-width: 991.98px) {
     .ftco-consult {
       background-position: top center !important; } }
-  /*.ftco-consult .overlay {
+  .ftco-consult .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -9643,15 +9643,16 @@ textarea.form-control {
     bottom: 0;
     content: '';
     opacity: .8;
-    background: #1566ad;
-    background: -moz-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, #1566ad), color-stop(100%, #1b9de3));
-    background: -webkit-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -o-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -ms-linear-gradient(left, #1566ad 0%, #1b9de3 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#1566ad), to(#1b9de3));
-    background: linear-gradient(to right, #1566ad 0%, #1b9de3 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1566ad', endColorstr='#1b9de3', GradientType=1 ); } */
+    background: #000000;
+    background: -moz-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #000000), color-stop(100%, #737373));
+    background: -webkit-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -o-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -ms-linear-gradient(left, #000000 0%, #737373 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#000000), to(#737373));
+    background: linear-gradient(to right, #000000 0%, #737373 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#737373', GradientType=1 ); } 
+	/* start=#1566ad; end=#1b9de3;*/
 
 .appointment-form .form-group {
   position: relative;
