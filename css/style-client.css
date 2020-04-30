@@ -10,7 +10,9 @@ h2{
 }
 
 .slick-slide img {
-    width: 100%;
+    width: 185px;
+	height: 75px;
+	padding: 10px;
 }
 
 .slick-slider
