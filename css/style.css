@@ -8775,11 +8775,14 @@ h1, h2, h3, h4, h5,
 
 
 .services1 {
+	    background-image: url(images/factory-1509853_640.jpg);
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
   display: block;
   width: 100%;
   position: relative;
-  background: #f0f9fd;
-  background-size: cover;
   padding: 20px 30px;
   margin-bottom: 30px;
   -moz-transition: all 0.3s ease;
@@ -8870,6 +8873,11 @@ h1, h2, h3, h4, h5,
 		
 
 .services-2n {
+	    background-image: url(images/factory-1509853_640.jpg);
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
   border-left: 1px solid rgba(0, 0, 0, 0.05);
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   width: 100%;
@@ -10113,4 +10121,11 @@ textarea.form-control {
 	 width: 150px;
 	 height: 75px;
      transition: all 0.4s ease-in-out
+ }
+ 
+ .immg {
+  width: 100%;
+  height: 300px;
+  background-size: 100% 100%;
+  border: 1px solid #fff;
  }

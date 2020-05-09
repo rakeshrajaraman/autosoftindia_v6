@@ -79,10 +79,10 @@
   content: "\f00d";
 }
 .icon-remove:before {
-  content: "\f00d";
+  content: "\f098";
 }
 .icon-times:before {
-  content: "\f00d";
+  content: "\f097";
 }
 .icon-search-plus:before {
   content: "\f00e";
@@ -97,7 +97,7 @@
   content: "\f012";
 }
 .icon-cog:before {
-  content: "\f013";
+  content: "\f099";
 }
 .icon-gear:before {
   content: "\f013";
@@ -133,7 +133,7 @@
   content: "\f01d";
 }
 .icon-repeat:before {
-  content: "\f01e";
+  content: "\f063";
 }
 .icon-rotate-right:before {
   content: "\f01e";

@@ -13,6 +13,10 @@ h2{
     width: 185px;
 	height: 75px;
 	padding: 10px;
+	margin: 5px;
+    border-style: solid;
+	border-color: #d6eaff;
+	border-width: 1px;
 }
 
 .slick-slider
