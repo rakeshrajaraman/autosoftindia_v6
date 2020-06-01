@@ -8888,7 +8888,8 @@ h1, h2, h3, h4, h5,
 		background-size: cover;
   border-left: 1px solid rgba(0, 0, 0, 0.05);
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-  width: 100%;
+  width: 347px;
+  height: 381px;
   padding: 30px;
   margin: 2px;
   -moz-transition: all 0.3s ease;
