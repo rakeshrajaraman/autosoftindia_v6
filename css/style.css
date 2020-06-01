@@ -3374,9 +3374,12 @@ input[type="button"].btn-block {
     cursor: default; }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6; }
+  border-bottom: 1px solid #dee2e6;
+  }
   .nav-tabs .nav-item {
+	 
     margin-bottom: -1px; }
+
   .nav-tabs .nav-link {
     border: 1px solid transparent;
     border-top-left-radius: 0.25rem;
@@ -3475,6 +3478,7 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none; }
+
   .navbar-nav .nav-link {
     padding-right: 0;
     padding-left: 0; }
@@ -8246,11 +8250,12 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size:20px;
+	  
+    font-size:18px;
     padding-top: 1.2rem;
     padding-bottom: 1.2rem;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 11px;
+    padding-right: 11px;
     font-weight: 400;
     color: #fff;
     opacity: 1 !important; }
@@ -8377,6 +8382,8 @@ h1, h2, h3, h4, h5,
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
       color: #000000; }
+	  
+
 
 .navbar-brand {
   font-weight: 800;
@@ -8781,7 +8788,8 @@ h1, h2, h3, h4, h5,
 		-o-background-size: cover;
 		background-size: cover;
   display: block;
-  width: 100%;
+  width: 350px;
+  height: 335px;
   position: relative;
   padding: 20px 30px;
   margin-bottom: 30px;
